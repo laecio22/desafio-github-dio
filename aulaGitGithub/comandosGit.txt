@@ -1,0 +1,7 @@
+      Comandos Git
+git init // inicia  o repositório git
+git clone // clona  repositório do  github  na máquina local
+git  commit //  realiza  o commit  das  alterações  realizadas no arquivo
+git  push //  sobe  as  alterações  que  foram commitadas  para  o repositório remoto do github
+git pull //  baixa  as  alterações do  repositório  do github  para  repositório local
+git  add //  prepara as  alterações  para a  área  de stage,  esperando  realização  do  commit
